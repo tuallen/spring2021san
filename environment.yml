@@ -1,0 +1,9 @@
+name: image-super-resolution
+dependencies: 
+    - jupyterlab
+    - python=3.6
+    - matplotlib
+    - scipy
+    - tqdm
+    - scikit-image
+    - pillow=6.1
